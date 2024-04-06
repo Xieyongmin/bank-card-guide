@@ -1,0 +1,34 @@
+---
+import DefaultLayout from '../layouts/DefaultLayout.astro'
+import Feature from '../components/Feature.astro'
+---
+
+<DefaultLayout title="Home">
+  <section class="my-64">
+    <div class="container">
+      <h2 class="mb-16 text-6xl">香港银行卡</h2>
+      <div class="grid grid-cols-1 gap-12 md:grid-cols-2 lg:grid-cols-3">
+        <Feature icon="mdi:tailwind" title="中银香港">
+          如何办理中银香港银行卡？
+        </Feature>
+        <Feature icon="mdi:wheelchair-accessibility" title="汇丰one">
+          如何办理汇丰one银行卡？
+        </Feature>
+        <Feature icon="mdi:looks" title="招商永隆">
+          如何办理招商永隆银行卡？
+        </Feature>
+        <Feature icon="mdi:eslint" title="众安银行">
+          如何办理众安(ZA Bank)银行卡？
+        </Feature>
+      </div>
+    </div>
+    <div class="container">
+      <h2 class="mb-16 text-6xl">新加坡银行卡</h2>
+      <div class="grid grid-cols-1 gap-12 md:grid-cols-2 lg:grid-cols-3">
+        <Feature icon="mdi:tailwind" title="华侨银行 OCBC">
+          如何办理华侨银行 OCBC银行卡？
+        </Feature>
+      </div>
+    </div>
+  </section>
+</DefaultLayout>
