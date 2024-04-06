@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/MarkdownLayout.astro.astro
+layout: ../../layouts/MarkdownLayout.astro
 title: Markdown Page
 ---
 
