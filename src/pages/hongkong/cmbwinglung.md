@@ -1,16 +1,63 @@
 ---
 layout: ../../layouts/MarkdownLayout.astro
-title: Markdown Page
+title: 招商永隆
 ---
 
-# Markdown Page
+# 招商永隆
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae veniam repellat deleniti obcaecati facilis non, praesentium aperiam laudantium excepturi assumenda doloremque animi quis aliquam eligendi quia nemo asperiores et eaque, sunt voluptatibus, saepe exercitationem id. Quis sequi maxime fugiat nam reprehenderit nesciunt quaerat obcaecati, ipsa dignissimos voluptatum voluptatem, optio quidem quos repudiandae dolorem voluptatibus fuga officia odio nemo recusandae voluptas.
+### 准备
 
-```js
-console.log('Hello Accessible World!')
-```
+> 1、港澳通行证和护照
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae veniam repellat deleniti obcaecati facilis non, praesentium aperiam laudantium excepturi assumenda doloremque animi quis aliquam eligendi quia nemo asperiores et eaque, sunt voluptatibus, saepe exercitationem id. Quis sequi maxime fugiat nam reprehenderit nesciunt quaerat obcaecati, ipsa dignissimos voluptatum voluptatem, optio quidem quos repudiandae dolorem voluptatibus fuga officia odio nemo recusandae voluptas.
+> 2、通关小票
 
-[Get this theme on GitHub](https://github.com/markteekman/accessible-astro-starter)
+> 3、大陆身份证
+
+> 4、居住地址证明
+
+> 5、常用大陆手机号
+
+> 6、少量港元现金
+
+> 7、提前下载各种APP
+
+> 8、提前开通漫游服务，确保能接收短信
+
+### 注意事项
+
+> **关于地址证明**：建议使用大陆银行或者信用卡最近三个月的纸质账单，银行账单上一定要有你的名字和居住地址
+
+> **关于大陆手机号**：一定要开通漫游，能当场接短信，因为注册过程中需要各种验证
+
+> **通关小票**：出入海关的时候闸机自动打印
+
+> **选择工作日**自己去香港开户，周末大多银行只开周六上午半天，需要**注意香港当地的公共假期**。
+
+> **出入境记录**：微信小程序 移民局12367>中国公民服务>出入境记录查询导出记录
+
+### 开户地点
+
+> 各个银行网点都可以，建议去远一点的地方，人会比较少
+
+### 管理费
+> 1、金葵花账户免费
+
+> 2、普卡1W港币免费，低于1W需收取100港币/月
+
+### 加密货币
+
+1、香港卡是否可以从币安等虚拟币交易所提款？
+
+> 很多香港卡都可以，但不建议这么做，因为香港和欧美银行比大陆银行更严格，稍微有点问题就会封卡
+
+2、香港卡支持USDT充值和国内消费么？
+
+> 大部分都不支持，这方面建议使用Onekey等虚拟卡，目前用下来比较稳定。但微信貌似已经不支持绑定这类虚拟U卡，支付宝有些人可以绑定，有些人不行。海外消费是一定可以的，比如用USDT购买ChatGPT、亚马逊云、油管会员或者推特会员等等
+
+### 视频资源
+
+[赴港开户需要什么材料？预约技巧？注意事项？哪家银行最值得开？大陆人士香港银行开户经历分享和户口使用Tips【小土豆Xiao2Dou】](https://www.youtube.com/watch?v=7q3lk5aNyNo)
+
+[香港顺利办理中银,汇丰,众安银行卡,手机卡！我的香港出行，购物，住宿全攻略！](https://www.youtube.com/watch?v=ngMoOt0-bGY)
+
+[2024最新香港汇丰银行开户攻略，详细办理过程分享：提前准备工作/预约/注意事项/真实经历分享/开户总结/无门槛100%成功，人人可办理的超值汇丰one开户](https://www.youtube.com/watch?v=wy19enRYFYs)
