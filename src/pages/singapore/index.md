@@ -1,16 +1,50 @@
 ---
-layout: ../../layouts/MarkdownLayout.astro
-title: Markdown Page
+import DefaultLayout from '../../layouts/DefaultLayout.astro'
+import { Card } from 'accessible-astro-components'
 ---
 
-# Markdown Page
+<DefaultLayout
+  title="新加坡银行卡办理指南"
+  description="新加坡卡办理、避坑指南"
+>
+  <section class="my-5">
+    <div class="space-content container">
+      <h1>新加坡银行卡办理指南</h1>
+      <p class="text-2xl">
+        新加坡卡办理、避坑指南
+      </p>
+    </div>
+  </section>
+  <section class="my-12">
+    <div class="container">
+      <ul class="my-3">
+        <li>
+            <Card
+            url='/singapore/ocbc'
+            title='华侨银行'
+            footer=''
+            >
+            '华侨银行卡办理指南'
+            </Card>
+        </li>
+      </ul>
+    </div>
+  </section>
+</DefaultLayout>
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae veniam repellat deleniti obcaecati facilis non, praesentium aperiam laudantium excepturi assumenda doloremque animi quis aliquam eligendi quia nemo asperiores et eaque, sunt voluptatibus, saepe exercitationem id. Quis sequi maxime fugiat nam reprehenderit nesciunt quaerat obcaecati, ipsa dignissimos voluptatum voluptatem, optio quidem quos repudiandae dolorem voluptatibus fuga officia odio nemo recusandae voluptas.
+<style lang="scss">
+  ul {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-gap: 4rem;
 
-```js
-console.log('Hello Accessible World!')
-```
+    @media (min-width: 550px) {
+      grid-template-columns: repeat(2, 1fr);
+      grid-gap: 2rem;
+    }
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae veniam repellat deleniti obcaecati facilis non, praesentium aperiam laudantium excepturi assumenda doloremque animi quis aliquam eligendi quia nemo asperiores et eaque, sunt voluptatibus, saepe exercitationem id. Quis sequi maxime fugiat nam reprehenderit nesciunt quaerat obcaecati, ipsa dignissimos voluptatum voluptatem, optio quidem quos repudiandae dolorem voluptatibus fuga officia odio nemo recusandae voluptas.
-
-[Get this theme on GitHub](https://github.com/markteekman/accessible-astro-starter)
+    @media (min-width: 950px) {
+      grid-template-columns: repeat(3, 1fr);
+    }
+  }
+</style>

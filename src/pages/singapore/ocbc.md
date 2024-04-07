@@ -1,16 +1,79 @@
 ---
 layout: ../../layouts/MarkdownLayout.astro
-title: Markdown Page
+title: 华侨银行卡办理指南
 ---
 
-# Markdown Page
+# 华侨银行卡办理指南
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae veniam repellat deleniti obcaecati facilis non, praesentium aperiam laudantium excepturi assumenda doloremque animi quis aliquam eligendi quia nemo asperiores et eaque, sunt voluptatibus, saepe exercitationem id. Quis sequi maxime fugiat nam reprehenderit nesciunt quaerat obcaecati, ipsa dignissimos voluptatum voluptatem, optio quidem quos repudiandae dolorem voluptatibus fuga officia odio nemo recusandae voluptas.
+### 准备
 
-```js
-console.log('Hello Accessible World!')
-```
+> 1、直接使用现有网络，不要开VPN
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae veniam repellat deleniti obcaecati facilis non, praesentium aperiam laudantium excepturi assumenda doloremque animi quis aliquam eligendi quia nemo asperiores et eaque, sunt voluptatibus, saepe exercitationem id. Quis sequi maxime fugiat nam reprehenderit nesciunt quaerat obcaecati, ipsa dignissimos voluptatum voluptatem, optio quidem quos repudiandae dolorem voluptatibus fuga officia odio nemo recusandae voluptas.
+> 2、支持NFC手机
 
-[Get this theme on GitHub](https://github.com/markteekman/accessible-astro-starter)
+> 3、本人身份证、护照
+
+> 4、应用商店下载OCBC Digital
+
+### 注意事项
+
+> 1、大陆地区护照芯片在封底中间偏上位置，让手机顶部对齐护照中间位置即可（iPhone），读取芯片期间不要移动手机
+
+> 2、多次尝试失败，App会暂停注册功能，等第二天解封后再试，也可以换一部手机，但不要过于频繁尝试
+
+> 3、存款账户需要另开
+
+> 4、入金1000新币不用邀请码也有开户奖励（15新币）
+
+> 5、申请理由：**::只勾选储蓄::**
+
+> 6、**::不要选自雇，::**有工作单位，收入属于中等
+
+> 7、::公众人物要填否::
+
+> 8、开通360账户的借记卡，如果不使用实体卡不要在手机银行里点击激活，那个激活是用来激活实体卡的，否则激活电子卡的CVV码就会作废
+
+> 9、网页开户没有实体卡
+
+> 10、邮寄地址（第一行加入手机号）
+
+> 11、税务识别号：有，身份证号
+
+> 12、账户名必须要记住
+
+> 13、onetoken，不要删除App
+
+> 14、不要使用熊猫速汇激活账户
+
+> 15、审核通过后设置过程中不要退出App，否则后面可能无法登录
+
+> 16、OneToken 非首次的激活码是邮寄过来，首次是短信，所以谨慎换手机或被锁账户
+
+操作步骤按App提示操作
+
+### 账户区分
+
+> 以下金额部分均为新币，外国人账户
+
+|           | GSA               | SSA       | 360                   | MSA               | Frank            |
+| --------- | ----------------- | --------- | --------------------- | ----------------- | ---------------- |
+| 可交易货币     | 美元                | 新币        |                       |                   |                  |
+| 首年管理费     | 免费                | 免费        | 免费                    | 免费                | 免费               |
+| 非首年管理费    | 余额>2000 免费，否则10/月 | 免费        | 1000-3000为2/月，>3000免费 | 余额<500/月为2/月，否则免费 | 余额<1000为2/月，否则免费 |
+| 存款利率      | 接近0%              | 接近0%      | 较高，动态调整               | 接近0%              | 接近0%             |
+| Debit卡片支持 | 不支持               | 不支持       | 支持                    | 不支持               | 支持               |
+| 存款保险      | 7.5W              | 7.5W      | 7.5W                  | 7.5W              | 7.5W             |
+| 账户关闭      | 连续6个月静默状态         | 连续6个月静默状态 | 连续6个月静默状态             | 连续6个月静默状态         | 连续6个月静默状态        |
+| 账户关闭费用    | 收取                | 收取        | 收取                    | 收取                | 收取               |
+
+### 入金
+
+1、wise
+
+2、外币银行
+
+比如众安、华美、中银等，大陆去香港方便点，可以办理香港卡，据说港卡转账免手续费（待确定）
+
+3、国内银行
+
+手续费较贵，招行、民生、中行可以直接汇款，其他大行要柜台操作
