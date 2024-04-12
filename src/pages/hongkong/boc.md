@@ -1,7 +1,6 @@
 ---
 layout: ../../layouts/MarkdownLayout.astro
 title: 中银香港
-page_url:hongkong/boc
 ---
 
 # 中银香港

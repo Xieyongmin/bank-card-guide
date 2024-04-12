@@ -4,7 +4,7 @@ import DefaultLayout from './DefaultLayout.astro'
 const { frontmatter } = Astro.props
 ---
 
-<DefaultLayout title={frontmatter.title} page_url={frontmatter.page_url}>
+<DefaultLayout title={frontmatter.title} pageUrl={frontmatter.pageUrl}>
   <div class="container">
     <div class="space-content my-5">
       <slot />

@@ -1,7 +1,6 @@
 ---
 layout: ../../layouts/MarkdownLayout.astro
 title: 众安银行
-page_url:hongkong/zhongan
 ---
 
 # 众安银行

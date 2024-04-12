@@ -1,7 +1,6 @@
 ---
 layout: ../../layouts/MarkdownLayout.astro
 title: 招商永隆
-page_url:hongkong/cmbwinglung
 ---
 
 # 招商永隆
