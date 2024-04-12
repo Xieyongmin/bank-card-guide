@@ -1,6 +1,7 @@
 ---
 layout: ../../layouts/MarkdownLayout.astro
 title: 华侨银行卡办理指南
+page_url:singapore/ocbc
 ---
 
 # 华侨银行卡办理指南

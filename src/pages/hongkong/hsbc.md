@@ -1,6 +1,7 @@
 ---
 layout: ../../layouts/MarkdownLayout.astro
 title: 汇丰One
+page_url:hongkong/hsbc
 ---
 
 # 汇丰One
