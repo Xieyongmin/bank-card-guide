@@ -3,13 +3,14 @@ import { ViewTransitions } from 'astro:transitions'
 
 const { title, description, url, image, author } = Astro.props
 
-let subtitle = '香港银行卡、新加坡银行卡办理指南'
+let subtitle = '香港银行卡、新加坡银行卡办理开户'
 ---
 
 <!-- general meta -->
 <meta name="title" content={`${title} - ${subtitle}`} />
 <meta name="description" content={description} />
 <meta name="author" content={author} />
+<link ref="canonical" content={url} />
 
 <!-- open graph -->
 <meta property="og:title" content={`${title} - ${subtitle}`} />
