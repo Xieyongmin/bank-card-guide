@@ -31,7 +31,7 @@ const {
       title={title}
       description={description.substring(0, 100)}
       url={Astro.site
-        ? `${Astro.site}/${title.toLowerCase().replaceAll(' ', '-')}`
+        ? `${Astro.site}${title.toLowerCase().replaceAll(' ', '-')}`
         : `https://midware.dev/${title.toLowerCase().replaceAll(' ', '-')}`}
       image={image}
       author={author}
