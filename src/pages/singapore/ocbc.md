@@ -1,9 +1,9 @@
 ---
 layout: ../../layouts/MarkdownLayout.astro
-title: 华侨银行卡办理指南
+title: 华侨银行卡开户指南
 ---
 
-# 华侨银行卡办理指南
+# 华侨银行卡开户指南
 
 ### 准备
 
